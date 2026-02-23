@@ -1,0 +1,663 @@
+{
+  "total": 82,
+  "downloaded": 32,
+  "failed": 50,
+  "results": [
+    {
+      "title": "Ventromedial prefrontal cortex reactivity is altered in generalized anxiety disorder during fear generalization",
+      "pdf_url": "https://www.jneurosci.org/content/jneuro/34/11/4043.full.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.jneurosci.org/content/jneuro/34/11/4043.full.pdf"
+    },
+    {
+      "title": "Alterations in amygdala–prefrontal circuits in infants exposed to prenatal maternal depression",
+      "pdf_url": "https://www.nature.com/articles/tp2016146.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Alterations_in_amygdala–prefrontal_circuits_in_infants_exposed_to_prenatal_maternal_depression.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Increased default mode network connectivity in individuals at high familial risk for depression",
+      "pdf_url": "https://www.nature.com/articles/npp2015342.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Increased_default_mode_network_connectivity_in_individuals_at_high_familial_risk_for_depression.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Circuit-Wide Structural and Functional Measures Predict Ventromedial Prefrontal Cortex Fear Generalization: Implications for Generalized Anxiety Disorder",
+      "pdf_url": "https://www.jneurosci.org/content/jneuro/34/11/4043.full.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.jneurosci.org/content/jneuro/34/11/4043.full.pdf"
+    },
+    {
+      "title": "Machine learning prediction of incidence of Alzheimer's disease using large-scale administrative health data",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/02/10/625582.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Machine_learning_prediction_of_incidence_of_Alzheimer's_disease_using_large-scale_administrative_health_data.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Associations between brain structure and connectivity in infants and exposure to selective serotonin reuptake inhibitors during pregnancy",
+      "pdf_url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2676821/jamapediatrics_lugocandelas_2018_oi_170106.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://jamanetwork.com/journals/jamapediatrics/articlepdf/2676821/jamapediatrics_lugocandelas_2018_oi_170106.pdf"
+    },
+    {
+      "title": "Neural reactivity tracks fear generalization gradients",
+      "pdf_url": "https://doi.org/10.31234/osf.io/zwc2h",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.31234/osf.io/zwc2h"
+    },
+    {
+      "title": "Altered white matter microstructural organization in posttraumatic stress disorder across 3047 adults: results from the PGC-ENIGMA PTSD consortium",
+      "pdf_url": "https://doi.org/10.1002/brb3.2413/v2/review1",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.1002/brb3.2413/v2/review1"
+    },
+    {
+      "title": "Abnormal hippocampal structure and function in clinical anxiety and comorbid depression",
+      "pdf_url": "https://europepmc.org/articles/pmc4837065?pdf=render",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Abnormal_hippocampal_structure_and_function_in_clinical_anxiety_and_comorbid_depression.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "Abnormal reward circuitry in anorexia nervosa: A longitudinal, multimodal MRI study",
+      "pdf_url": "http://doi.org/10.1002/hbm.23279",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from http://doi.org/10.1002/hbm.23279"
+    },
+    {
+      "title": "The Effects of Obstructive Sleep Apnea Syndrome on the Dentate Gyrus and Learning and Memory in Children",
+      "pdf_url": "https://www.jneurosci.org/content/jneuro/37/16/4280.full.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://www.jneurosci.org/content/jneuro/37/16/4280.full.pdf"
+    },
+    {
+      "title": "Small-world network properties in prefrontal cortex correlate with predictors of psychopathology risk in young children: A NIRS study",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnhum.2013.00867/pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Small-world_network_properties_in_prefrontal_cortex_correlate_with_predictors_of_psychopathology_risk_in_young_children__398a71e1.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Neural correlates of aggression in medication-naive children with ADHD: multivariate analysis of morphometry and tractography",
+      "pdf_url": "https://www.nature.com/articles/npp201518.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Neural_correlates_of_aggression_in_medication-naive_children_with_ADHD_multivariate_analysis_of_morphometry_and_tractogr_06ad919f.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Functional and structural amygdala–anterior cingulate connectivity correlates with attentional bias to masked fearful faces",
+      "pdf_url": "https://doi.org/10.1016/j.cortex.2016.04.012",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.1016/j.cortex.2016.04.012"
+    },
+    {
+      "title": "Hyper-reactive human ventral tegmental area and aberrant mesocorticolimbic connectivity in overgeneralization of fear in generalized anxiety disorder",
+      "pdf_url": "https://www.jneurosci.org/content/jneuro/34/17/5855.full.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.jneurosci.org/content/jneuro/34/17/5855.full.pdf"
+    },
+    {
+      "title": "Swift: Swin 4d fmri transformer",
+      "pdf_url": "https://peerj.com/articles/cs-1093v0.2/submission",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Swift_Swin_4d_fmri_transformer.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Clinically anxious individuals show disrupted feedback between inferior frontal gyrus and prefrontal-limbic control circuit",
+      "pdf_url": "https://www.jneurosci.org/content/jneuro/36/17/4708.full.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.jneurosci.org/content/jneuro/36/17/4708.full.pdf"
+    },
+    {
+      "title": "Evidence for thalamocortical circuit abnormalities and associated cognitive dysfunctions in underweight individuals with anorexia nervosa",
+      "pdf_url": "https://www.nature.com/articles/npp2015314.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Evidence_for_thalamocortical_circuit_abnormalities_and_associated_cognitive_dysfunctions_in_underweight_individuals_with_35f0feb1.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "The fine line between 'brave'and 'reckless': amygdala reactivity and regulation predict recognition of risk",
+      "pdf_url": "https://doi.org/10.1016/j.neuroimage.2014.08.038",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.1016/j.neuroimage.2014.08.038"
+    },
+    {
+      "title": "Influence of the BDNF genotype on amygdalo-prefrontal white matter microstructure is linked to nonconscious attention bias to threat",
+      "pdf_url": "https://academic.oup.com/cercor/article-pdf/24/9/2249/14101046/bht089.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://academic.oup.com/cercor/article-pdf/24/9/2249/14101046/bht089.pdf"
+    },
+    {
+      "title": "Therapeutic effect of repetitive transcranial magnetic stimulation for post-stroke vascular cognitive impairment: a prospective pilot study",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fneur.2022.813597/pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Therapeutic_effect_of_repetitive_transcranial_magnetic_stimulation_for_post-stroke_vascular_cognitive_impairment_a_prosp_6038ff14.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "GANDALF: Generative adversarial networks with discriminator-adaptive loss fine-tuning for Alzheimer's disease diagnosis from MRI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8963430",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/8963430"
+    },
+    {
+      "title": "Diagnosis and prognosis of Alzheimer's disease using brain morphometry and white matter connectomes",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/05/02/407601.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Diagnosis_and_prognosis_of_Alzheimer's_disease_using_brain_morphometry_and_white_matter_connectomes.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Changes in transcript and protein levels of calbindin D28k, calretinin and parvalbumin, and numbers of neuronal populations expressing these proteins in an ischemia model of ...",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3015040",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/3015040"
+    },
+    {
+      "title": "Ganbert: Generative adversarial networks with bidirectional encoder representations from transformers for mri to pet synthesis",
+      "pdf_url": "https://doi.org/10.36227/techrxiv.16444611",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.36227/techrxiv.16444611"
+    },
+    {
+      "title": "Association of genome-wide polygenic scores for multiple psychiatric and common traits in preadolescent youths at risk of suicide",
+      "pdf_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2789157/joo_2022_oi_211331_1644548934.84626.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2789157/joo_2022_oi_211331_1644548934.84626.pdf"
+    },
+    {
+      "title": "Anticipation of high arousal aversive and positive movie clips engages common and distinct neural substrates",
+      "pdf_url": "https://academic.oup.com/scan/article-pdf/10/4/605/27101011/nsu091.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://academic.oup.com/scan/article-pdf/10/4/605/27101011/nsu091.pdf"
+    },
+    {
+      "title": "AesFA: An aesthetic feature-aware arbitrary neural style transfer",
+      "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29232/30325",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://ojs.aaai.org/index.php/AAAI/article/download/29232/30325"
+    },
+    {
+      "title": "From anxious to reckless: a control systems approach unifies prefrontal-limbic regulation across the spectrum of threat detection",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnsys.2017.00018/pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/From_anxious_to_reckless_a_control_systems_approach_unifies_prefrontal-limbic_regulation_across_the_spectrum_of_threat_d_d1d18c89.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Differential expression of two glutamate transporters, GLAST and GLT-1, in an experimental rat model of glaucoma",
+      "pdf_url": null,
+      "downloaded": false,
+      "filepath": null,
+      "source": null,
+      "error": "No open-access PDF found"
+    },
+    {
+      "title": "Altered dentate gyrus microstructure in individuals at high familial risk for depression predicts future symptoms",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7750261",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/7750261"
+    },
+    {
+      "title": "Concordance in parent and offspring cortico-basal ganglia white matter connectivity varies by parental history of major depressive disorder and early parental care",
+      "pdf_url": "https://academic.oup.com/scan/article-pdf/15/8/889/33882660/nsaa118.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://academic.oup.com/scan/article-pdf/15/8/889/33882660/nsaa118.pdf"
+    },
+    {
+      "title": "Effects of serotonin transporter gene variation on impulsivity mediated by default mode network: a family study of depression",
+      "pdf_url": "https://academic.oup.com/cercor/article-pdf/28/6/1911/25084174/bhx097.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://academic.oup.com/cercor/article-pdf/28/6/1911/25084174/bhx097.pdf"
+    },
+    {
+      "title": "Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8410534",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8410534"
+    },
+    {
+      "title": "Structural neural markers of response to cognitive behavioral therapy in pediatric obsessive‐compulsive disorder",
+      "pdf_url": "https://doaj.org/article/c5aec143495243b593a1a968c27845ae",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doaj.org/article/c5aec143495243b593a1a968c27845ae"
+    },
+    {
+      "title": "The sexual brain, genes, and cognition: A machine‐predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children",
+      "pdf_url": "https://doi.org/10.1002/hbm.25888",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.1002/hbm.25888"
+    },
+    {
+      "title": "Maternal age at birth and child attention‐deficit hyperactivity disorder: causal association or familial confounding?",
+      "pdf_url": "https://academic.oup.com/ije/article-pdf/43/6/1815/14152757/dyu204.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://academic.oup.com/ije/article-pdf/43/6/1815/14152757/dyu204.pdf"
+    },
+    {
+      "title": "Differences in brain structure and function in children with the FTO obesity‐risk allele",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/osp4.417",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/osp4.417"
+    },
+    {
+      "title": "Variety of horizontal cell gap junctions in the rabbit retina",
+      "pdf_url": "https://europepmc.org/articles/pmc3278585?pdf=render",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Variety_of_horizontal_cell_gap_junctions_in_the_rabbit_retina.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "White matter diffusion estimates in obsessive-compulsive disorder across 1653 individuals: machine learning findings from the ENIGMA OCD Working Group",
+      "pdf_url": null,
+      "downloaded": false,
+      "filepath": null,
+      "source": null,
+      "error": "No open-access PDF found"
+    },
+    {
+      "title": "Gene–environment pathways to cognitive intelligence and psychotic-like experiences in children",
+      "pdf_url": "https://elifesciences.org/reviewed-preprints/88117v3.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Gene–environment_pathways_to_cognitive_intelligence_and_psychotic-like_experiences_in_children.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Dentate gyrus microstructure is associated with resilience after exposure to maternal stress across two human cohorts",
+      "pdf_url": "https://eprints.gla.ac.uk/301994/1/301994.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Dentate_gyrus_microstructure_is_associated_with_resilience_after_exposure_to_maternal_stress_across_two_human_cohorts.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Longitudinal magnetic resonance imaging reveals striatal hypertrophy in a rat model of long-term stimulant treatment",
+      "pdf_url": "https://www.nature.com/articles/tp2016158.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Longitudinal_magnetic_resonance_imaging_reveals_striatal_hypertrophy_in_a_rat_model_of_long-term_stimulant_treatment.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Sex-specific effects of anxiety on cognition and activity-dependent neural networks: Insights from (female) mice and (wo) men",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10369916",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10369916"
+    },
+    {
+      "title": "Synaptic connections of calbindin-immunoreactive cone bipolar cells in the inner plexiform layer of rabbit retina",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12095229/pdf/",
+      "downloaded": false,
+      "filepath": null,
+      "source": "PMC",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12095229/pdf/"
+    },
+    {
+      "title": "Cognitive Capacity Genome-Wide Polygenic Scores Identify Individuals with Slower Cognitive Decline in Aging",
+      "pdf_url": "https://www.mdpi.com/2073-4425/13/8/1320/pdf?version=1658895901",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.mdpi.com/2073-4425/13/8/1320/pdf?version=1658895901"
+    },
+    {
+      "title": "Predicting task-related brain activity from resting-state brain dynamics with fMRI Transformer",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/05/30/2024.05.29.596544.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Predicting_task-related_brain_activity_from_resting-state_brain_dynamics_with_fMRI_Transformer.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Early life stress modulates the genetic influence on brain structure and cognitive function in children",
+      "pdf_url": "http://www.cell.com/article/S2405844023105536/pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from http://www.cell.com/article/S2405844023105536/pdf"
+    },
+    {
+      "title": "Quantum privacy aggregation of teacher ensembles (qpate) for privacy preserving quantum machine learning",
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/3bebc22986bae6fc1cbde5714ebb457e/download_pub",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.preprints.org/frontend/manuscript/3bebc22986bae6fc1cbde5714ebb457e/download_pub"
+    },
+    {
+      "title": "Polygenic scores for psychiatric traits mediate the impact of multigenerational history for depression on offspring psychopathology",
+      "pdf_url": "https://www.researchsquare.com/article/rs-4264742/latest.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Polygenic_scores_for_psychiatric_traits_mediate_the_impact_of_multigenerational_history_for_depression_on_offspring_psyc_32174ca8.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "A training-free approach for music style transfer with latent diffusion models",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3680528.3687579",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://dl.acm.org/doi/pdf/10.1145/3680528.3687579"
+    },
+    {
+      "title": "Neurodevelopmental imprints of sociomarkers in adolescent brain connectomes",
+      "pdf_url": "https://doi.org/10.1038/s41598-024-71309-2",
+      "downloaded": false,
+      "filepath": null,
+      "source": "SemanticScholar",
+      "error": "Download failed from https://doi.org/10.1038/s41598-024-71309-2"
+    },
+    {
+      "title": "Machine learning aided prediction of family history of depression",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12925667/pdf/",
+      "downloaded": false,
+      "filepath": null,
+      "source": "PMC",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12925667/pdf/"
+    },
+    {
+      "title": "Left medial orbitofrontal cortex volume correlates with skydive-elicited euphoric experience",
+      "pdf_url": "https://doi.org/10.3389/fpsyt.2020.00109",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.3389/fpsyt.2020.00109"
+    },
+    {
+      "title": "Polygenic architecture of brain structure and function, behaviors, and psychopathologies in children",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/05/23/2024.05.22.595444.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Polygenic_architecture_of_brain_structure_and_function,_behaviors,_and_psychopathologies_in_children.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Subcortical volumes in offspring with a multigenerational family history of depression–A study across two cohorts",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420999/pdf/nihms-2014274.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://pmc.ncbi.nlm.nih.gov/articles/PMC11420999/pdf/nihms-2014274.pdf"
+    },
+    {
+      "title": "Anxiety throughout Alzheimer's disease progression: In mice and (wo) men",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12822484/pdf/",
+      "downloaded": false,
+      "filepath": null,
+      "source": "PMC",
+      "error": "Download failed from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12822484/pdf/"
+    },
+    {
+      "title": "Over the quantum rainbow: Explaining hybrid quantum reinforcement learning",
+      "pdf_url": "https://www.nature.com/articles/s41598-023-45406-7.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Over_the_quantum_rainbow_Explaining_hybrid_quantum_reinforcement_learning.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "Revisiting Your Memory: Reconstruction of Affect-Contextualized Memory via EEG-guided Audiovisual Generation",
+      "pdf_url": "https://doi.org/10.1145/3746277.3760413",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.1145/3746277.3760413"
+    },
+    {
+      "title": "Development and Validation of a Prediction Model for Differentiation of Benign and Malignant Fat-Poor Renal Tumors Using CT Radiomics",
+      "pdf_url": "https://www.mdpi.com/2076-3417/13/20/11345/pdf?version=1697454180",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.mdpi.com/2076-3417/13/20/11345/pdf?version=1697454180"
+    },
+    {
+      "title": "Identifying prepubertal children with risk for suicide using deep neural network trained on multimodal brain imaging",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2021/10/14/2021.10.10.21264580.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Identifying_prepubertal_children_with_risk_for_suicide_using_deep_neural_network_trained_on_multimodal_brain_imaging.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "3D distributed deep learning framework for prediction of human intelligence from brain MRI",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2023/02/27/2023.02.24.529924.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/3D_distributed_deep_learning_framework_for_prediction_of_human_intelligence_from_brain_MRI.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "An Electron Microscopic Study of Connexin 50 and 57 in the Rabbit Retina",
+      "pdf_url": "https://www.nature.com/articles/7290288.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/An_Electron_Microscopic_Study_of_Connexin_50_and_57_in_the_Rabbit_Retina.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "DIVER-0: A Fully Channel Equivariant EEG Foundation Model",
+      "pdf_url": "http://dx.doi.org/10.36227/techrxiv.22654393",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from http://dx.doi.org/10.36227/techrxiv.22654393"
+    },
+    {
+      "title": "SEED: Towards More Accurate Semantic Evaluation for Visual Brain Decoding",
+      "pdf_url": "https://doi.org/10.59717/j.xinn-inform.2026.100021",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.59717/j.xinn-inform.2026.100021"
+    },
+    {
+      "title": "Mind the gap: Aligning the brain with language models requires a nonlinear and multimodal approach",
+      "pdf_url": "https://aclanthology.org/2025.emnlp-main.1748.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Mind_the_gap_Aligning_the_brain_with_language_models_requires_a_nonlinear_and_multimodal_approach.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Individual Differences in the Effects of Neighborhood Socioeconomic Deprivation on Intertemporal Decision-Making and Psychotic-Like Experiences in Children",
+      "pdf_url": "https://www.researchsquare.com/article/rs-4618474/latest.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Individual_Differences_in_the_Effects_of_Neighborhood_Socioeconomic_Deprivation_on_Intertemporal_Decision-Making_and_Psy_12b20d93.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Stress vulnerability and resilience in children facing COVID-19-related discrimination: A quasi-experimental study using polygenic, brain, and sociodemographic data",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2024/03/06/2024.03.04.24303643.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Stress_vulnerability_and_resilience_in_children_facing_COVID-19-related_discrimination_A_quasi-experimental_study_using__cdb655a8.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "Overestimated prediction using polygenic prediction derived from summary statistics",
+      "pdf_url": "https://bmcgenomdata.biomedcentral.com/counter/pdf/10.1186/s12863-023-01151-4",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Overestimated_prediction_using_polygenic_prediction_derived_from_summary_statistics.pdf",
+      "source": "SemanticScholar",
+      "error": null
+    },
+    {
+      "title": "Using anxiety as a sex‐specific neuropsychiatric biomarker of Alzheimer's disease: Molecular and cell biology/APP/Abeta/amyloid",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.037201",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.037201"
+    },
+    {
+      "title": "Differences in white matter structural networks in family risk of major depressive disorder and suicidality: A connectome analysis",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2023/09/08/2023.09.07.23295211.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Differences_in_white_matter_structural_networks_in_family_risk_of_major_depressive_disorder_and_suicidality_A_connectome_0f13cd27.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Individual Differences in The Intergenerational Transmission of Attention-Deficit/Hyperactivity Disorder: The Role of Genetic and Environmental Factors",
+      "pdf_url": "https://www.researchsquare.com/article/rs-7405635/latest.pdf",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.researchsquare.com/article/rs-7405635/latest.pdf"
+    },
+    {
+      "title": "Awe is characterized as an ambivalent affect in the human behavior and cortex",
+      "pdf_url": "https://www.nature.com/articles/s44271-025-00299-2.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Awe_is_characterized_as_an_ambivalent_affect_in_the_human_behavior_and_cortex.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Computed Tomography-Based Radiomics Diagnostic Model for Fat-Poor Small Renal Tumor Subtypes",
+      "pdf_url": "https://www.mdpi.com/2075-4418/15/11/1365/pdf?version=1748444131",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://www.mdpi.com/2075-4418/15/11/1365/pdf?version=1748444131"
+    },
+    {
+      "title": "Polygenic Risk-Informed White Matter Integrity Improves Deep Learning-Based Prediction of Youth Depression",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2025/03/28/2025.03.27.25324746.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Polygenic_Risk-Informed_White_Matter_Integrity_Improves_Deep_Learning-Based_Prediction_of_Youth_Depression.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Macro2Micro: Cross-modal Magnetic Resonance Imaging Synthesis Leveraging Multi-scale Brain Structures",
+      "pdf_url": "https://doi.org/10.5353/th_991044214995303414",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://doi.org/10.5353/th_991044214995303414"
+    },
+    {
+      "title": "Swin fMRI Transformer Predicts Early Neurodevelopmental Outcomes from Neonatal fMRI",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2023/06/24/2023.06.21.545883.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Swin_fMRI_Transformer_Predicts_Early_Neurodevelopmental_Outcomes_from_Neonatal_fMRI.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Multivariate Associations Between Structural Brain Networks, Genetics, Environments, and Cognitive-Psychopathological Traits in Children",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2023/08/07/2023.07.24.23293075.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Multivariate_Associations_Between_Structural_Brain_Networks,_Genetics,_Environments,_and_Cognitive-Psychopathological_Tr_13410afc.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Training a Large-Scale 3D Convolutional Neural Network Predicting Human Intelligence in Adolescent Brain Cognitive Development Study",
+      "pdf_url": "http://dx.doi.org/10.2172/2429319",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from http://dx.doi.org/10.2172/2429319"
+    },
+    {
+      "title": "Anxiety Impacts Cognitive Decline in Female Alzheimer's Disease Mice and Predicts Dementia Transition in the ADNI Human Dataset",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.046475",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/alz.046475"
+    },
+    {
+      "title": "Maternal Parenting Distress Associated With Offspring Altered Dentate Gyrus Microstructure, Dentate Gyrus-Orbitofrontal Functional Connectivity and Decreased Cognitive Flexibility",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/01/09/704791.full.pdf",
+      "downloaded": true,
+      "filepath": "/home/juke/git/connectomelab/papers/pdf/Maternal_Parenting_Distress_Associated_With_Offspring_Altered_Dentate_Gyrus_Microstructure,_Dentate_Gyrus-Orbitofrontal__85eadaec.pdf",
+      "source": "Unpaywall",
+      "error": null
+    },
+    {
+      "title": "Neural Underpinnings of Anxiety: Multi-modal Magnetic Resonance Imaging Approach",
+      "pdf_url": "http://doi.org/10.1016/j.mri.2015.03.007",
+      "downloaded": false,
+      "filepath": null,
+      "source": "Unpaywall",
+      "error": "Download failed from http://doi.org/10.1016/j.mri.2015.03.007"
+    }
+  ]
+}

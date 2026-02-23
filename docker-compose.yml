@@ -1,0 +1,79 @@
+version: "3.9"
+
+services:
+  # NVIDIA NIM LLM (requires NGC_API_KEY and NVIDIA GPU)
+  nim-llm:
+    image: nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1:latest
+    ports:
+      - "8000:8000"
+    environment:
+      - NGC_API_KEY=${NGC_API_KEY}
+    runtime: nvidia
+    shm_size: "16gb"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/v1/health/live"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+    profiles:
+      - nim
+
+  # RAG Chatbot Web UI
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./papers:/app/papers:ro
+      - ./rag/data:/app/rag/data
+      - ./rag/config:/app/rag/config
+    environment:
+      - NVIDIA_API_KEY=${NVIDIA_API_KEY:-}
+      - NVIDIA_VISIBLE_DEVICES=all
+    depends_on:
+      nim-llm:
+        condition: service_healthy
+        required: false
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    profiles:
+      - app
+
+  # Standalone chatbot (no NIM, uses local model or cloud API)
+  chatbot-standalone:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./papers:/app/papers:ro
+      - ./rag/data:/app/rag/data
+      - ./rag/config:/app/rag/config
+    environment:
+      - NVIDIA_API_KEY=${NVIDIA_API_KEY:-}
+      - NVIDIA_VISIBLE_DEVICES=all
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    profiles:
+      - standalone

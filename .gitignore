@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Large files
+papers/pdf/*.pdf
+rag/data/faiss_index/
+rag/models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
