@@ -1,13 +1,12 @@
 {
-  "mode": "nvidia_nim",
+  "mode": "ollama",
+  "ollama_model": "exaone-32b",
+  "ollama_endpoint": "http://localhost:11434",
   "nvidia_api_key": "",
   "nvidia_model": "nemotron",
-  "nvidia_embed_model": "nvidia/nv-embedqa-e5-v5",
-  "local_llm": "microsoft/Phi-3.5-mini-instruct",
-  "local_embed": "intfloat/e5-large-v2",
   "nim_endpoint": "http://localhost:8000/v1",
-  "temperature": 0.2,
-  "max_tokens": 1024,
-  "top_k": 5,
-  "enable_thinking": false
+  "local_embed": "intfloat/e5-large-v2",
+  "temperature": 0.3,
+  "max_tokens": 1500,
+  "top_k": 5
 }
