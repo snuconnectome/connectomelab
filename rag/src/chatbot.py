@@ -216,21 +216,6 @@ def create_ui(chatbot: RAGChatbot) -> gr.Blocks:
 
     with gr.Blocks(
         title="SNU Connectome Lab — Research Chatbot",
-        theme=gr.themes.Soft(
-            primary_hue="blue",
-            secondary_hue="slate",
-            neutral_hue="slate",
-            font=gr.themes.GoogleFont("Inter"),
-        ),
-        css="""
-        .header { text-align: center; padding: 20px 0; }
-        .header h1 { color: #1e3a5f; margin-bottom: 4px; }
-        .header p { color: #6b7280; font-size: 14px; }
-        .source-card { 
-            background: #f8fafc; border-left: 3px solid #3b82f6;
-            padding: 8px 12px; margin: 4px 0; border-radius: 4px; font-size: 13px;
-        }
-        """,
     ) as app:
         gr.HTML("""
         <div class="header">
@@ -248,8 +233,6 @@ def create_ui(chatbot: RAGChatbot) -> gr.Blocks:
                     label="Chat",
                     height=500,
                     show_label=False,
-                    avatar_images=(None, "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/SNU_Emblem.svg/120px-SNU_Emblem.svg.png"),
-                    type="messages",
                 )
                 with gr.Row():
                     msg_input = gr.Textbox(
@@ -324,10 +307,11 @@ def create_ui(chatbot: RAGChatbot) -> gr.Blocks:
         send_btn.click(respond, [msg_input, chatbox], [chatbox, sources_display, msg_input])
         msg_input.submit(respond, [msg_input, chatbox], [chatbox, sources_display, msg_input])
 
+        settings_output = gr.Textbox(visible=False)
         mode_selector.change(
             update_settings,
             [mode_selector, api_key_input, top_k_slider, temp_slider],
-            gr.Textbox(visible=False),
+            settings_output,
         )
 
     return app
@@ -348,7 +332,26 @@ def main() -> None:
 
     chatbot = RAGChatbot(config)
     app = create_ui(chatbot)
-    app.launch(server_name=args.host, server_port=args.port, share=args.share)
+    app.launch(
+        server_name=args.host,
+        server_port=args.port,
+        share=args.share,
+        theme=gr.themes.Soft(
+            primary_hue="blue",
+            secondary_hue="slate",
+            neutral_hue="slate",
+            font=gr.themes.GoogleFont("Inter"),
+        ),
+        css="""
+        .header { text-align: center; padding: 20px 0; }
+        .header h1 { color: #1e3a5f; margin-bottom: 4px; }
+        .header p { color: #6b7280; font-size: 14px; }
+        .source-card {
+            background: #f8fafc; border-left: 3px solid #3b82f6;
+            padding: 8px 12px; margin: 4px 0; border-radius: 4px; font-size: 13px;
+        }
+        """,
+    )
 
 
 if __name__ == "__main__":

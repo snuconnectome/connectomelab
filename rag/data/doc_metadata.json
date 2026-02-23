@@ -1,0 +1,7 @@
+{
+  "total_chunks": 5473,
+  "embedding_model": "intfloat/e5-large-v2",
+  "chunk_size": 512,
+  "chunk_overlap": 64,
+  "papers_dir": "/home/juke/git/connectomelab/papers/pdf"
+}

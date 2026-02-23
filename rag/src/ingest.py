@@ -48,7 +48,7 @@ def load_pdfs(papers_dir: Path) -> list:
 
 def chunk_documents(documents: list, chunk_size: int = 512, chunk_overlap: int = 64) -> list:
     """Split documents into chunks optimized for academic papers."""
-    from langchain.text_splitter import RecursiveCharacterTextSplitter
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
 
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,

@@ -1,9 +1,9 @@
 version: "3.9"
 
 services:
-  # NVIDIA NIM LLM (requires NGC_API_KEY and NVIDIA GPU)
+  # NVIDIA NIM LLM — Nemotron Nano 9B v2 (DGX Spark / GB10 optimized)
   nim-llm:
-    image: nvcr.io/nim/nvidia/llama-3.1-nemotron-nano-8b-v1:latest
+    image: nvcr.io/nim/nvidia/nvidia-nemotron-nano-9b-v2-dgx-spark:1.0.0-variant
     ports:
       - "8000:8000"
     environment:
@@ -21,8 +21,8 @@ services:
       test: ["CMD", "curl", "-f", "http://localhost:8000/v1/health/live"]
       interval: 30s
       timeout: 10s
-      retries: 5
-      start_period: 120s
+      retries: 10
+      start_period: 300s
     profiles:
       - nim
 

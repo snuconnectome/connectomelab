@@ -1,7 +1,7 @@
 {
-  "mode": "local",
+  "mode": "nvidia_nim",
   "nvidia_api_key": "",
-  "nvidia_model": "nvidia/nemotron-3-nano-30b-a3b",
+  "nvidia_model": "nemotron",
   "nvidia_embed_model": "nvidia/nv-embedqa-e5-v5",
   "local_llm": "microsoft/Phi-3.5-mini-instruct",
   "local_embed": "intfloat/e5-large-v2",
